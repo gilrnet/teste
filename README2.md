@@ -129,7 +129,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 - <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" /> [Bitrise](https://mozilla.github.io/nunjucks/)
 
 ---
-### :boy: :girl: **Autores**
+### :girl: :boy: **Autores**
 
 <div align="center">
 
