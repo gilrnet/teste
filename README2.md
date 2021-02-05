@@ -8,7 +8,7 @@
 <p align="center">
   <img alt="BENEFICIE" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/beneficie_purple.png" width="200px"/>
 <p>
-<h3 align="center">BENEFICIE</h3>
+
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
