@@ -117,16 +117,16 @@ $ open PI_G8_BeneficieApp.xcworkspace
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/whatsapp.svg" /> [WhatsApp](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/trello.svg" /> [Trello](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/adobexd.svg" /> [AdobeXD](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/whatsapp.svg" /> [WhatsApp](https://www.whatsapp.com/?lang=pt_br)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/trello.svg" /> [Trello](https://trello.com/pt-BR)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/adobexd.svg" /> [AdobeXD](https://www.adobe.com/br/products/xd.html)
 - <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/swift.svg" /> [Swift](https://swift.org/documentation/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/xcode.svg" /> [Xcode](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/github.svg" /> [Github](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/cocoapods.svg" /> [CocoaPods](https://nodejs.org/pt-br/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/fastlane.svg" /> [Fastlane](https://expressjs.com/pt-br/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/firebase.svg" /> [Firebase](https://nodemon.io)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" /> [Bitrise](https://mozilla.github.io/nunjucks/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/xcode.svg" /> [Xcode](https://developer.apple.com/documentation/xcode/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/github.svg" /> [Github](https://docs.github.com/pt)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/cocoapods.svg" /> [CocoaPods](https://guides.cocoapods.org/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/fastlane.svg" /> [Fastlane](https://docs.fastlane.tools/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/firebase.svg" /> [Firebase](https://firebase.google.com/docs)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" /> [Bitrise](https://devcenter.bitrise.io/)
 
 ---
 ### :girl: :boy: **Autores**
