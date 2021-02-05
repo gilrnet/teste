@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img alt="BENEFICIE" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/beneficie_purple.png" width="150px"/>
+  <img alt="BENEFICIE" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/beneficie_purple.png" width="200px"/>
 <p>
 
 <p align="center">
