@@ -136,14 +136,18 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 <a href="https://github.com/DominiqueNB">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67060136?s=400&u=e8d9e26306d7aad7d1e0343dfc29993ef91bbf31&v=4" width="100px;" alt="Foto de Perfil Dominique Bezerra"/>
  <br />
+  <p>
  <sub><b>Dominique Bezerra</b></sub></a>
+<p>
 
 <div align="center">
 
 <a href="https://github.com/gilrnet">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70452352?s=460&u=fff904a1a488102041f1f64f2b8faaef7ff91d41&v=4" width="100px;" alt="Foto de Gilvã Rocha"/>
  <br />
+  <p>
  <sub><b>Gilvã Rocha</b></sub></a>
+<p>
 
 Feito com ❤️ por Dominique Bezerra e Gilvã Rocha 👋🏽 Entre em contato!
 
