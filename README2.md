@@ -24,7 +24,7 @@
  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autores</a> •
+ <a href="#girl-boy-autores">Autores</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
