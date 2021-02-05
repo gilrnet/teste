@@ -4,7 +4,7 @@
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
   <a href="https://github.com/Beneficie">
-    <img alt="Desenvolvido por Gilvã Roche e Dominique Bezerra" src="https://img.shields.io/badge/Desenvolvedor-Gilva_Rocha-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Desenvolvido por Gilvã Roche e Dominique Bezerra" src="https://img.shields.io/badge/Desenvolvedor-Gilvã_Rocha-Dominique Bezerra-%3498db?color=3498db&style=for-the-badge">
   </a>
   <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
 <p>
