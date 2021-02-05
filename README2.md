@@ -13,9 +13,9 @@
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
   <a href="https://github.com/Beneficie">
-    <img alt="Feito por Gilvã Roche e Dominique Bezerra" src="https://img.shields.io/badge/Feito_Por-Gilvã_Rocha_e_Dominique_Bezerra-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Feito por Dominique Bezerra e Gilvã Rocha" src="https://img.shields.io/badge/Feito_Por-Dominique_Bezerra_e_GIlvã_Rocha-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/Beneficie/PI_G8_BeneficieApp?style=for-the-badge"/>
 <p>
 
 <p align="center">
@@ -51,102 +51,113 @@ ADM | User
 </div>
 
 ---
-
 ## :computer: **Sobre**
 
-A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
+A plataforma é..................................
 
-Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha Discovery** oferecida pela [Rocketseat](https://www.rocketseat.com.br).
-O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
+Projeto desenvolvido durante o **Santander Coders Mobile 2020** no curso **Desenvolvimento Mobile iOS** em parceria com a [DigitalHouse](https://www.digitalhouse.com/br/).
+
+O Santander Coders é uma experiência online e imersiva com muito conteúdo prático e desafios com duração de X meses, tendo como objetivo dar oportunidades reais para pessoas que querem transformar suas vidas por meio da educação de qualidade.
 
 ---
 ## ⚙️ **Funcionalidades**
 
-<details>
-<summary>Clique para Visualizar</summary>
+- [x] Todas as pessoas podem se cadastrar no aplicativo:
+  - [x] com login do Google
+  - [x] com login do Facebook
+  - [x] criando seu própio login
+    - nome completo
+    - email
+    - contato
+    - senha
+    - confirmação de senha
 
-- [x] Construir página inicial :computer:
-- [x] Construir página inicial :iphone:
-- [x] Construir página de busca :computer:
-- [x] Construir página de busca :iphone:
-- [x] Construir página de cadastro :computer:
-- [x] Construir página de cadastro :iphone:
-- [x] Incluir novo horário no cadastro de professor :computer::iphone:
-- [x] Construir servidor back end :computer:
-- [x] Interface da página de busca dinâmica :computer:
-- [x] Construir banco de dados :computer:
-- [x] Criar consultas SQL :computer:
-- [x] Construir funcionalidade de cadastrar professor no banco de dados :computer:
-- [x] Construir funcionalidade buscar professor no banco de dados :computer:
-- [x] Construir página de sucesso :computer::iphone:
-- [x] Incluir página de sucesso no redirecionamento do cadastro :computer:
+- [x] Os administradores tem acesso ao app, onde podem:
+  - [x] efetuar o cadastro
+  - [x] criar, editar e deletar a ação do mês
+  - [x] listar os parfticipantes de determinado projeto
+  - [x] se inscrever em qualquer ação, caso tenha vaga disponível
+  - [x] fazer uma doação para qualquer projeto
+  - [x] acessar o meunu de configurações
 
-</details>
-
----
-### :triangular_ruler: **Status do Projeto**
-
-<h4 align="center"> 
-	👨‍🏫 Proffy v1.0 concluído !
-</h4>
+- [x] Os usuários tem acesso ao app, onde podem:
+  - [x] efetuar o cadastro
+  - [x] se inscrever em qualquer ação do mês, caso tenha vaga disponível
+  - [x] fazer uma doação para qualquer projeto
+  - [x] acessar o meunu de configurações
 
 ---
 ### :dvd: **Executar o Projeto**
 
+Este projeto deverá ser executado:
+1. No sistema operacional MacOS X
+2. No simulador do Xcode X ou IPhone X 
+
+💡É preciso efetuar a simulação no ambiente de desenvolvimento Xcode ou integra-ló com Iphone para funcionar.
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [CocoaPods](https://cocoapods.org/), [Fastlane](https://fastlane.tools/)
+
+
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/rafaelfachinelli/proffy>
+$ git clone <https://github.com/Beneficie/PI_G8_BeneficieApp.git>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd proffy
+$ cd PI_G8_BeneficieApp
 
-# Instale as dependências
-$ npm install
-
-# Gerar as tabelas do banco de dados
-$ node src/database/db.js
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev
+# Abra o projeto no XCode
+$ open PI_G8_BeneficieApp.xcworkspace
 ```
-
-> ⚠️ O servidor iniciará na porta:5500 - Acesse <http://localhost:5500>
 
 ---
 ### :hammer: **Tecnologias**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- [Node.js](https://nodejs.org/pt-br/)
-- [Express](https://expressjs.com/pt-br/)
-- [Nodemon](https://nodemon.io)
-- [Nunjucks](https://mozilla.github.io/nunjucks/)
-- [SQLite](https://www.sqlite.org)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/whatsapp.svg" />[WhatsApp](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/trello.svg" />[Trello](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/adobexd.svg" />[AdobeXD](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/swift.svg" />[Swift](https://swift.org/documentation/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/xcode.svg" />[Xcode](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/github.svg" />[Github](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/cocoapods.svg" />[CocoaPods](https://nodejs.org/pt-br/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/fastlane.svg" />[Fastlane](https://expressjs.com/pt-br/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/firebase.svg" />[Firebase](https://nodemon.io)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" />[Bitrise](https://mozilla.github.io/nunjucks/)
 
 ---
 ### :boy: **Autor**
 
 <div align="center">
 
-<a href="https://github.com/rafaelfachinelli">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/19878139?s=460&u=278a6f44f49af3c8edb13a811f7654dfe6e89341&v=4" width="100px;" alt="Foto de Perfil Rafael Fachinelli"/>
+<a href="https://github.com/DominiqueNB">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67060136?s=400&u=e8d9e26306d7aad7d1e0343dfc29993ef91bbf31&v=4" width="100px;" alt="Foto de Perfil Dominique Bezerra"/>
  <br />
- <sub><b>Rafael Fachinelli</b></sub></a>
+ <sub><b>Dominique Bezerra</b></sub></a>
 
+<a href="https://github.com/gilrnet">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70452352?s=460&u=fff904a1a488102041f1f64f2b8faaef7ff91d41&v=4" width="100px;" alt="Foto de Gilvã Rocha"/>
+ <br />
+ <sub><b>Gilvã Rocha</b></sub></a>
 
-Feito com ❤️ por Rafael Fachinelli 👋🏽 Entre em contato!
+Feito com ❤️ por Dominique Bezerra e Gilvã Rocha 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael_Fachinelli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelfachinelli/)](https://www.linkedin.com/in/rafaelfachinelli/)
-[![Github Badge](https://img.shields.io/badge/-rafaelfachinelli-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rafaelfachinelli)](https://github.com/rafaelfachinelli)
-[![Itch.io Badge](https://img.shields.io/badge/-rafaelfachinelli-FA5C5C?style=flat-square&logo=itch.io&logoColor=white&link=https://rafael-fachinelli.itch.io/)](https://rafael-fachinelli.itch.io/)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
+[![Linkedin Badge](https://img.shields.io/badge/-Dominique_Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominiquebezerra)
+[![Github Badge](https://img.shields.io/badge/-Dominique_Bezerra-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/DominiqueNB)
+[![Gmail Badge](https://img.shields.io/badge/-dominique.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dominique.nascimento@gmail.com)](mailto:dominique.nascimento@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gilvã_Rocha-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gilvã-lopes-rocha)
+[![Github Badge](https://img.shields.io/badge/-Gilvã_Rocha-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gilrnet)
+[![Gmail Badge](https://img.shields.io/badge/-gilvalopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvalopes@gmail.com)](mailto:gilvalopes@gmail.com)
+
 
 </div>
 
 ---
 ### :page_facing_up: **Licença**
 
-Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-Este projeto é licenciado pelo [MIT](./LICENSE).
+Copyright © 2021 [Beneficie](https://github.com/Beneficie).<br />
+Este projeto é licenciado pelo [MIT](https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/LICENSE).
