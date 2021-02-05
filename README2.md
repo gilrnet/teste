@@ -1,4 +1,13 @@
-<img alt="Beneficie" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/beneficie_purple.png">
+<div align="right">
+  
+  [![English](https://www.countryflags.io/us/flat/32.png)](./README-EN.md)
+  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](./README.md)
+  
+</div>
+
+<p align="center">
+  <img alt="BENEFICIE" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/beneficie_purple.png" width="250px"/>
+<p>
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
