@@ -38,7 +38,7 @@
 
 Cadastro | Entrar 
 ---|---
-<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Beneficie" src="gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Beneficie" src="gif"> |
 
 </div>
 
@@ -46,7 +46,7 @@ Cadastro | Entrar
 
 ADM | User
 ---|---
-<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Beneficie" src="gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Beneficie" src="gif"> |
 
 </div>
 
