@@ -131,12 +131,14 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 ---
 ### :boy: **Autor**
 
-<!-- <div align="center"> -->
+<div align="center">
 
 <a href="https://github.com/DominiqueNB">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67060136?s=400&u=e8d9e26306d7aad7d1e0343dfc29993ef91bbf31&v=4" width="100px;" alt="Foto de Perfil Dominique Bezerra"/>
  <br />
  <sub><b>Dominique Bezerra</b></sub></a>
+
+<div align="center">
 
 <a href="https://github.com/gilrnet">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70452352?s=460&u=fff904a1a488102041f1f64f2b8faaef7ff91d41&v=4" width="100px;" alt="Foto de Gilvã Rocha"/>
@@ -153,8 +155,8 @@ Feito com ❤️ por Dominique Bezerra e Gilvã Rocha 👋🏽 Entre em contato!
 [![Github Badge](https://img.shields.io/badge/-Gilvã_Rocha-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gilrnet)
 [![Gmail Badge](https://img.shields.io/badge/-gilvalopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvalopes@gmail.com)](mailto:gilvalopes@gmail.com)
 
-<!-- </div> -->
-
+</div>
+</div>
 ---
 ### :page_facing_up: **Licença**
 
