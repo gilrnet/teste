@@ -118,29 +118,25 @@ $ open PI_G8_BeneficieApp.xcworkspace
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
 - <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/whatsapp.svg" /> [WhatsApp](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/trello.svg" />[Trello](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/adobexd.svg" />[AdobeXD](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/swift.svg" />[Swift](https://swift.org/documentation/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/xcode.svg" />[Xcode](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/github.svg" />[Github](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/cocoapods.svg" />[CocoaPods](https://nodejs.org/pt-br/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/fastlane.svg" />[Fastlane](https://expressjs.com/pt-br/)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/firebase.svg" />[Firebase](https://nodemon.io)
-- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" />[Bitrise](https://mozilla.github.io/nunjucks/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/trello.svg" /> [Trello](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/adobexd.svg" /> [AdobeXD](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/swift.svg" /> [Swift](https://swift.org/documentation/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/xcode.svg" /> [Xcode](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/github.svg" /> [Github](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/cocoapods.svg" /> [CocoaPods](https://nodejs.org/pt-br/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/fastlane.svg" /> [Fastlane](https://expressjs.com/pt-br/)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/firebase.svg" /> [Firebase](https://nodemon.io)
+- <img height="32" width="32" src="https://github.com/Beneficie/PI_G8_BeneficieApp/blob/main/bitrise.svg" /> [Bitrise](https://mozilla.github.io/nunjucks/)
 
 ---
 ### :boy: **Autor**
 
-<div align="center">
+<!-- <div align="center"> -->
 
 <a href="https://github.com/DominiqueNB">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67060136?s=400&u=e8d9e26306d7aad7d1e0343dfc29993ef91bbf31&v=4" width="100px;" alt="Foto de Perfil Dominique Bezerra"/>
  <br />
  <sub><b>Dominique Bezerra</b></sub></a>
-
-</div>
-
-<div align="center">
 
 <a href="https://github.com/gilrnet">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70452352?s=460&u=fff904a1a488102041f1f64f2b8faaef7ff91d41&v=4" width="100px;" alt="Foto de Gilvã Rocha"/>
@@ -157,8 +153,7 @@ Feito com ❤️ por Dominique Bezerra e Gilvã Rocha 👋🏽 Entre em contato!
 [![Github Badge](https://img.shields.io/badge/-Gilvã_Rocha-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/gilrnet)
 [![Gmail Badge](https://img.shields.io/badge/-gilvalopes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gilvalopes@gmail.com)](mailto:gilvalopes@gmail.com)
 
-
-</div>
+<!-- </div> -->
 
 ---
 ### :page_facing_up: **Licença**
