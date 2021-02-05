@@ -1,4 +1,4 @@
-<img alt="Proffy" src="beneficie_purple.png">
+<img alt="Beneficie" src="beneficie_purple.png">
 
 <p align="center">
   <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/Beneficie/PI_G8_BeneficieApp?style=for-the-badge">
