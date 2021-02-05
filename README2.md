@@ -6,7 +6,7 @@
   <a href="https://github.com/Beneficie">
     <img alt="Feito por Gilvã Roche e Dominique Bezerra" src="https://img.shields.io/badge/Feito_Por-Gilvã_Rocha_e_Dominique_Bezerra-%3498db?style=for-the-badge">
   </a>
-    <img alt="Licença do Projeto" src="https://img.shields.io/github/license/Beneficie/PI_G8_BeneficieAppy?style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
 <p>
 
 <p align="center">
