@@ -21,7 +21,7 @@
 <p align="center">
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
- <a href="#funcionalidades">Funcionalidades</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
@@ -60,7 +60,7 @@ Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha
 O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
 
 ---
-## ⚙️ Funcionalidades
+## ⚙️ **Funcionalidades**
 
 <details>
 <summary>Clique para Visualizar</summary>
