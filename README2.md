@@ -21,7 +21,7 @@
 <p align="center">
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
- <a href="#memo-roteiro">Roteiro</a> •
+ <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
@@ -36,13 +36,19 @@
 
 <div align="center">
 
-Busca | Cadastro 
+Cadastro | Entrar 
 ---|---
 <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
 
 </div>
 
-<p align="center"><b> :computer: DESKTOP </b></p>
+<div align="center">
+
+ADM | User
+---|---
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src=".github/demo-mobile-give-classes.gif"> |
+
+</div>
 
 <p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src=".github/demo-desk-give-classes.gif"></kbd></p>
 
