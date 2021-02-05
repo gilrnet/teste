@@ -22,10 +22,9 @@
  <a href="#movie_camera-demonstração">Demonstração</a> •
  <a href="#computer-sobre">Sobre</a> •
  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a> •
- <a href="#triangular_ruler-status-do-projeto">Status</a> •
  <a href="#dvd-executar-o-projeto">Executar</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#boy-autor">Autores</a> •
  <a href="#page_facing_up-licença">Licença</a>
 </p>
 
@@ -161,6 +160,7 @@ Feito com ❤️ por Dominique Bezerra e Gilvã Rocha 👋🏽 Entre em contato!
 
 </div>
 </div>
+
 ---
 ### :page_facing_up: **Licença**
 
