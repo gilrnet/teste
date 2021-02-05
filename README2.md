@@ -60,7 +60,7 @@ Projeto desenvolvido durante a **Next Level Week#2 (NLW)** na avançada **Trilha
 O NLW é uma experiência online com muito conteúdo prático e desafios com duração de uma semana para conclusão.
 
 ---
-## ⚙️ **Funcionalidades**
+## ⚙️ Funcionalidades
 
 <details>
 <summary>Clique para Visualizar</summary>
