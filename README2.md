@@ -52,7 +52,7 @@ ADM | User
 
 ---
 
-## :computer: Sobre
+## :computer: **Sobre**
 
 A plataforma é para estudantes e professores. Os professores realizam o cadastro inserindo as seguintes informações: Nome, biografia, whatsapp, disciplina e dias da semana com horários disponíveis para aula. Os alunos buscam professores particulares através do filtro de dia da semana, hora e matéria.
 
